@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowserChormeRobot", "WebBrowserChormeRobot\WebBrowserChormeRobot.csproj", "{B059B925-8D06-4AAE-A466-1B6043DB16E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B059B925-8D06-4AAE-A466-1B6043DB16E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B059B925-8D06-4AAE-A466-1B6043DB16E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B059B925-8D06-4AAE-A466-1B6043DB16E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B059B925-8D06-4AAE-A466-1B6043DB16E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9E793FA-2984-4C5F-B3E4-43B09884C020}
+	EndGlobalSection
+EndGlobal
